@@ -1,1 +1,1 @@
-#InternalCameraApp
+InternalCameraApp
